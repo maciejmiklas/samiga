@@ -1,4 +1,4 @@
-Adapter for connecting SEGA Gamepad to Amiga and C64
+samiga is an adapter for connecting SEGA Gamepad to Amiga and C64
 * Source: https://oshwlab.com/mac.miklas/sega-pad-amiga-joystick-autofire
 * auto fire / rapid fire that can be enabled/disabled
 * once the auto fire is enabled, you have to press button 2, which will trigger auto fire on button 1. Button 1 can still be used for single shots, or you can keep it pressed to throw grenades
