@@ -1,6 +1,6 @@
-samiga is an adapter for connecting SEGA Gamepad to Amiga and C64. Here is the EasyEDA Project containing the latest version: https://oshwlab.com/mac.miklas/sega-pad-amiga-joystick-autofire
+**samiga** is an adapter for connecting SEGA Gamepad to Amiga and C64. Here is the EasyEDA Project containing the latest version: https://oshwlab.com/mac.miklas/sega-pad-amiga-joystick-autofire
 
-samiga has the following futures:
+**samiga** has the following futures:
 * LEDs indicating direction, fire button, and state
 * auto fire (rapid fire) that can be enabled/disabled
 * usually, when an auto fire is enabled, it will immediately start firing on button 1, or it will get activated once button 1 is pressed - this is not the case here
