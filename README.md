@@ -1,4 +1,3 @@
-# samiga
 Adapter for connecting SEGA Gamepad to Amiga and C64
 * Source: https://oshwlab.com/mac.miklas/sega-pad-amiga-joystick-autofire
 * auto fire / rapid fire that can be enabled/disabled
