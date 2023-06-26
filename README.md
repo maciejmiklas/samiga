@@ -1,4 +1,4 @@
-**samiga** is an adapter connecting SEGA Gamepad to Amiga, C64, Atari 800 XL, and similar systems. 
+**samiga** is an adapter connecting SEGA Gamepad to Amiga, C64, Atari, and similar systems. 
 Here is the EasyEDA Project containing the latest version: https://oshwlab.com/mac.miklas/sega-pad-amiga-joystick-autofire
 
 **samiga** has an autofire with the possibility to alter firing speed. It includes LEDs indicating direction, fire buttons, and the state of the autofire. It utilizes three switches that allow control of the autofire, LED light, and remap the jump from pad to a button.
